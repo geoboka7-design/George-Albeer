@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="George Albeer - Front-End Developer" width="100%">
+  <img src="./assets/banner.png" alt="George Albeer" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm George Albeer</h1>
