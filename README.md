@@ -1,115 +1,183 @@
-# 👋 Hi, I'm George Albeer
+<p align="center">
+  <img src="./assets/banner.png" alt="George Albeer - Front-End Developer" width="100%">
+</p>
 
-### 💻 Computer Science Student | Front-End Developer | Future Full-Stack Developer
+<h1 align="center">👋 Hi, I'm George Albeer</h1>
 
-I'm **George Albeer**, a Computer Science student passionate about **Web Development and Software Engineering**.
+<h3 align="center">
+  💻 Computer Science Student | 🌐 Front-End Developer | 🚀 Future Full-Stack Developer
+</h3>
 
-I enjoy building modern, responsive, and interactive websites and continuously improving my programming skills by working on real-world projects.
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science student
-* 💻 Focused on **Web Development**
-* 🌐 Studied **Front-End Development**
-* 🧠 Passionate about **Programming & Software Development**
-* 🚀 Currently working toward becoming a **Full-Stack Developer**
-* 🌱 Always learning new technologies and improving my skills
-* 🛠️ I enjoy turning ideas into real, functional projects
+<p align="center">
+  <a href="https://github.com/geoboka7-design">
+    <img src="https://img.shields.io/github/followers/geoboka7-design?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=geoboka7-design&style=for-the-badge&color=0e75b6" alt="Profile Views">
+</p>
 
 ---
 
-## 🧑‍💻 Front-End Skills
+## 👨‍💻 About Me
+
+* 🎓 I'm a **Computer Science student** passionate about programming and software development.
+* 🌐 I have studied **Front-End Development** and enjoy creating modern web experiences.
+* 💻 My current focus is **Web Development**.
+* 🚀 My goal is to become a **professional Full-Stack Developer**.
+* 🧠 I enjoy learning new technologies and improving my programming skills.
+* 🛠️ I believe the best way to learn programming is by **building real projects**.
+* 🌱 Currently working on improving my JavaScript and expanding my knowledge toward Back-End Development.
+
+---
+
+## 🧑‍💻 My Tech Stack
+
+### 🌐 Front-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Technologies I Work With
+### 🛠️ Tools
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* Modern UI Development
-* Interactive Web Experiences
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously expanding my knowledge in:
-
-* ⚡ Advanced JavaScript
-* 🔧 Back-End Development
-* 🗄️ Databases
-* 🌐 APIs
-* 🚀 Full-Stack Web Development
-
----
-
-## 🎯 My Goal
-
-> **Become a professional Full-Stack Developer and build real-world applications that solve real problems.**
-
-I'm focused on improving through practice, building projects, and learning from every challenge I face.
+```text
+JavaScript
+     ↓
+Advanced Web Development
+     ↓
+Back-End Development
+     ↓
+Databases & APIs
+     ↓
+Full-Stack Development
+```
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Project
 
-Here are some of the projects I'm working on:
+### 🔥 Khedmetna
 
-### 🔹 Khedmetna
+**Khedmetna** is a project I'm working on to build a modern and useful digital experience with a focus on usability, clean design, and real-world functionality.
 
-A web/app project focused on providing useful services through a modern and user-friendly interface.
+**Current Focus:**
 
-**Technologies:** HTML • CSS • JavaScript
+* 🎨 Modern UI/UX
+* 🌐 Front-End Development
+* ⚡ Interactive User Experience
+* 📱 Responsive Design
+* 🚀 Building the project step by step
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geoboka7-design&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoboka7-design&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geoboka7-design&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoboka7-design&layout=compact&theme=tokyonight&hide_border=true" height="180">
 </p>
 
 ---
 
-## 🧩 Languages & Tools
+## 🔥 GitHub Streak
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoboka7-design&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 💻 What I Like Building
 
-<p align="left">
-  <a href="https://github.com/geoboka7-design">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+```javascript
+const george = {
+    name: "George Albeer",
+    role: "Front-End Developer",
+    education: "Computer Science",
+    
+    skills: [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+
+    interests: [
+        "Web Development",
+        "Software Development",
+        "UI/UX",
+        "Programming"
+    ],
+
+    currentGoal: "Become a Full-Stack Developer",
+
+    mindset: "Learn • Build • Improve"
+};
+```
+
+---
+
+## 🎯 My Development Journey
+
+```text
+Computer Science
+       │
+       ▼
+Programming Fundamentals
+       │
+       ▼
+Front-End Development
+       │
+       ├── HTML
+       ├── CSS
+       └── JavaScript
+       │
+       ▼
+Real-World Projects
+       │
+       ▼
+Back-End Development
+       │
+       ▼
+Full-Stack Developer 🚀
+```
+
+---
+
+## 📂 My Repositories
+
+I'm constantly working on new projects and experimenting with different ideas.
+
+Check out my repositories to see what I'm building:
+
+<p align="center">
+  <a href="https://github.com/geoboka7-design?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
-### ⚡ A little more about me
+## 🤝 Let's Connect
 
-```javascript
-const george = {
-    name: "George Albeer",
-    field: "Computer Science",
-    focus: "Web Development",
-    specialization: "Front-End Development",
-    goal: "Full-Stack Developer",
-    mindset: "Keep Learning. Keep Building. Keep Improving."
-};
-```
+<p align="center">
+  <a href="https://github.com/geoboka7-design">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
 
 <h3 align="center">
-  🚀 Building my skills one project at a time.
+  🚀 Learn. Build. Improve. Repeat.
 </h3>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
